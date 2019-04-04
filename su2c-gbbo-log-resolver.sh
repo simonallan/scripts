@@ -11,8 +11,8 @@ creds="~/.ssh/allan05-acquia su2c.prod@web-$s.prod.hosting.acquia.com"
 #/var/log/sites/su2c/logs/web-10227/access.log-20190325.gz
 #/var/log/sites/su2c/logs/web-10227/access.log-20190326.gz
 
-logpath='/var/log/sites/su2c/logs/web-10227/'
-destpath='/home/allan05/data/Logs/su2c-gbbo-stats'
+#logpath='/var/log/sites/su2c/logs/web-10227/'
+#destpath='/home/allan05/data/Logs/su2c-gbbo-stats'
 
 
 for s in "${servarr[@]}"
@@ -20,14 +20,15 @@ do
   #'ssh="ssh -oStrictHostKeyChecking=no -i ~/.ssh/allan05-acquia su2c.prod@web-$s.prod.hosting.acquia.com"
   # $ssh logfiles=$(find $logpath -name access.log-* -mtime -4 -mtime +0) | echo $logfiles
   logpath="/var/log/sites/su2c/logs/web-$s"
-  destpath="/home/allan05/data/logs/su2c-gbbo-stats/$s"
+  destpath="/home/allan05/data/Logs/su2c-gbbo-stats/"
+  destdir=$s
 
 
 
   for d in "${datearr[@]}"
   do
-    cd /home/allan05/data/logs/su2c-gbbo-stats/
-    mkdir $destpath
+    cd $destpath
+    mkdir $destpath/$destdir
     scp -i $creds:$logpath/access.log-$d.gz $destpath
   done
 done
