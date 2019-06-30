@@ -2,7 +2,7 @@
 
 # SET VARIABLES
 
-# Different log types to look for (defined in file name not extension)
+# Different log names to look for (defined in file name not extension)
 logtypearr=('out' 'err')
 
 #filedate
