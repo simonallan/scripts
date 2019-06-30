@@ -36,7 +36,7 @@ do
         unzip -l $findpath/$filenameout
         echo .
         #echo Commencing Cleanup. Press N to cancel, Y to delete.
-        #find /var/log/cruk_queue -regextype posix-egrep -regex ".*/cruk_queue\.${l}\.[0-9]" -exec rm -i {} +
+        #find /var/log/cruk_queue -regextype posix-egrep -regex ".*/cruk_queue\.err\.[0-9]" -exec rm -i {} +
     else
         echo "No matching files. Exiting."
     fi
