@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Quick script to automate OneDrive syncs via Crontab.
+
+# 
+/home/allan05/data/OneDrive/onedrive --resync
+
+
