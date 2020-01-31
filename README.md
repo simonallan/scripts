@@ -1,4 +1,4 @@
 # scripts
-Repo for small and single-file scripts
+Repo for small and single-file scripts.
 
-Just another boneyard, nothing to see here.
+Just another boneyard, Nothing to see here.
