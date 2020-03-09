@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Quick and dirty scrtipt to iterate through AWS S3 buckets
+# Quick and dirty script to iterate through AWS S3 buckets
 # and filch out some details
 
 logfile=/tmp/bucket-details.txt
