@@ -1,0 +1,24 @@
+#!/bin/bash
+
+local RESULTS
+
+echo starting Crappy pingtest script..
+
+exec 3>&1 4>&2 
+trap 'exec 2>&4 1>&3' 0 1 2 3 
+#exec 1>/tmp/log.out 2>&1
+
+
+echo $date
+#echo 'Checking IPv4 connectivity out: pinging 1.1'
+RESULTS=$(ping 1.1 -c 4 -q)
+echo $?
+
+#echo 'Checking external DNS resolution: pinging bbc.co.uk'
+RESULTS=$(ping bbc.co.uk -c 4 -q)
+echo $?
+
+#echo testing Github connection
+RESULTS=$(ssh i -q -o "BatchMode=yes" -T git@github.com)
+echo $?
+exit
