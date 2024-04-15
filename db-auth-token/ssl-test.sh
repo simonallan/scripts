@@ -41,18 +41,29 @@
 
 
 declare -a dbendpoints=(
-    'ofr-fws-application-integration.cijbd5cnppmo.eu-west-2.rds.amazonaws.com'
+    'ofrfwsapplicationintegratipplicationintegrationproxya9bc99b4.proxy-cijbd5cnppmo.eu-west-2.rds.amazonaws.com'
 )
+
 declare -a sslmodes=(
     DISABLED
     PREFERRED
     REQUIRED
+)
+
+declare -a verifycas=(
     VERIFY_CA
     VERIFY_IDENTITY
 )
+
 configfile="/home/as2-streaming-user/MyFiles/config.cnf"
-cafile="/home/as2-streaming-user/MyFiles/global-bundle.pem"
-dbuser="ReadOnlyUser"
+cafilepath="/home/as2-streaming-user/MyFiles/"
+
+declare -a cafiles=(
+    global-bundle.pem
+    mysql2-ssl-profile.pem
+)
+
+dbuser="proxy"
 
 # Get secure password at interactive command line
 
@@ -68,21 +79,35 @@ do
     read -sp "Enter a password for $dbuser: " PASSW && printf "\n"
     echo "password='$PASSW'" >> $configfile && export PASSW=''
 
+    echo ""
     echo "Connecting to $dbendpoint with user $dbuser"
+    echo executing command "status; | grep SSL"
 
     for sslmode in "${sslmodes[@]}"
     do
-        if [[ ( $sslmode = 'VERIFY_CA' ) || ( $sslmode = 'VERIFY_IDENTITY' ) ]]
-            then verifyca="--ssl-ca=$cafile "
-            else verifyca=""
-	fi
-
         echo "Trying SSL-Mode $sslmode"
         mysql                                       \
         --defaults-extra-file=$configfile           \
         --ssl-mode=$sslmode                         \
-	    $verifyca                      			    \
+        --enable-cleartext-plugin                   \
         --execute "status;" | grep SSL
+    done
+
+    for cafile in "${cafiles[@]}"
+    do
+        echo ""
+        echo "Checking CA File $cafile"
+
+        for verifyca in "${verifycas[@]}"
+        do
+            echo "verifying $cafile with $verifyca"
+            mysql                                       \
+            --defaults-extra-file=$configfile           \
+            --ssl-mode=$verifyca                        \
+            --ssl-ca=$cafile             			    \
+            --enable-cleartext-plugin                   \
+            --execute "status;" | grep SSL
+        done
     done
 done
 

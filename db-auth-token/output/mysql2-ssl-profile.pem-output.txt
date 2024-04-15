@@ -1,0 +1,78 @@
+Checking mysql2-ssl-profile.pem...
+
+Contents of certificate:
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            cd:99:37:ff:a7:3e:2d:bb
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, L = Seattle, ST = Washington, O = "Amazon Web Services, Inc.", OU = Amazon RDS, CN = Amazon RDS af-south-1 Root CA
+        Validity
+            Not Before: Oct 28 18:05:58 2019 GMT
+            Not After : Oct 26 18:05:58 2024 GMT
+        Subject: C = US, L = Seattle, ST = Washington, O = "Amazon Web Services, Inc.", OU = Amazon RDS, CN = Amazon RDS af-south-1 Root CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c1:1d:b7:e7:5b:8f:31:96:89:93:68:0c:19:3f:
+                    b5:b2:4f:07:13:d3:10:87:6a:dc:fe:c0:a7:6f:11:
+                    a7:da:9d:5c:ec:e8:bd:68:16:dd:fc:68:85:8a:37:
+                    89:6f:60:57:bc:75:3e:4c:ea:b7:77:72:63:a9:ea:
+                    6a:f2:d6:a9:5d:5b:78:a2:36:d3:24:dc:82:27:91:
+                    3b:af:b2:a3:4e:4b:4a:74:bc:6d:04:4d:4c:2b:6e:
+                    5a:63:e2:11:26:3b:5d:53:ab:c6:dc:a8:8f:29:44:
+                    f5:9d:a3:b7:c6:cd:f2:b7:41:7b:e9:65:6e:16:2b:
+                    dd:f4:e1:ef:d9:af:8a:1e:f3:e4:45:45:88:c6:99:
+                    80:1e:e3:18:f5:22:08:32:61:19:b5:51:3b:61:91:
+                    b1:e5:a8:74:88:ee:09:cc:8b:47:71:b5:51:d3:2d:
+                    0f:04:7e:79:6a:ba:45:05:d7:69:21:51:c2:69:ca:
+                    75:15:43:f1:48:45:a4:3a:92:3b:ab:40:1a:53:8c:
+                    5f:5f:47:de:d4:15:79:1d:96:11:2a:90:4e:22:9d:
+                    53:b5:95:af:24:3f:97:8c:65:2d:2f:50:44:b1:3e:
+                    6f:37:98:3d:32:4a:9d:b5:8a:c2:fb:74:8d:a4:09:
+                    38:56:da:6f:26:b7:63:ad:a2:3f:86:1b:df:79:73:
+                    67:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                10:48:BF:59:63:1C:04:9B:28:19:78:3E:11:9C:24:43:43:2C:71:94
+            X509v3 Authority Key Identifier: 
+                keyid:10:48:BF:59:63:1C:04:9B:28:19:78:3E:11:9C:24:43:43:2C:71:94
+
+    Signature Algorithm: sha256WithRSAEncryption
+         60:d9:e6:3b:39:3d:cf:e0:0b:9f:0b:26:bc:0c:3d:71:61:24:
+         30:52:f1:0b:83:9b:6d:c2:14:55:1d:96:ab:9c:b2:4c:0e:4b:
+         7f:74:ec:4a:ca:d5:99:26:54:90:88:a8:52:c0:ac:7a:ac:90:
+         55:cc:02:44:59:d8:f3:51:ed:18:d6:2e:a0:6c:fb:4c:e7:1b:
+         9c:87:85:12:9b:e0:35:f3:85:41:50:d7:c5:01:45:cb:d3:e9:
+         5e:b3:37:de:c7:4d:1b:04:11:a3:61:33:fe:e4:f1:82:de:ec:
+         ff:2f:7c:d6:76:f1:52:28:24:81:86:82:ff:43:c1:00:41:be:
+         4c:50:ef:5a:0e:98:01:b4:03:06:86:0f:43:91:19:47:db:62:
+         bc:bd:0f:3e:1a:e0:87:14:b1:9c:91:59:13:00:0e:2c:60:ac:
+         5b:fa:56:e1:13:a7:6e:ac:ff:ec:fe:8a:a3:5a:19:69:44:2c:
+         12:a1:de:24:02:4f:a6:3f:d5:49:e4:3c:b3:b8:d9:bc:6b:09:
+         2c:8e:be:c8:5d:91:83:79:f1:0d:a0:31:31:35:49:54:ea:ca:
+         8f:06:2f:0f:25:2c:0c:fd:6e:7b:d4:4a:01:f3:07:78:d1:ad:
+         2c:7a:82:01:7f:59:13:11:62:54:7e:fb:2e:8b:5c:fe:12:02:
+         c4:80:68:2d
+
+Certificate serial number:
+serial=CD9937FFA73E2DBB
+
+Certificate subject name:
+subject=C = US, L = Seattle, ST = Washington, O = "Amazon Web Services, Inc.", OU = Amazon RDS, CN = Amazon RDS af-south-1 Root CA
+
+Certificate subject name in RFC2253 form:
+subject=CN=Amazon RDS af-south-1 Root CA,OU=Amazon RDS,O=Amazon Web Services\, Inc.,ST=Washington,L=Seattle,C=US
+
+Certificate subject name in oneline form (UTF8):
+subject=C = US, L = Seattle, ST = Washington, O = "Amazon Web Services, Inc.", OU = Amazon RDS, CN = Amazon RDS af-south-1 Root CA
+
+Certificate SHA1 fingerprint:
+SHA1 Fingerprint=FD:6F:9B:67:B4:78:61:76:FA:93:55:CB:C1:DB:81:CC:72:DE:CC:EB
