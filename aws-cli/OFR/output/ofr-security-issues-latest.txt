@@ -1,0 +1,539 @@
+ACTIVE	arn:aws:s3:::ofr-int-monthly-useage-reporting-bucket	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mo2rffwkkzxh	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-int-monthly-useage-reporting-bucket	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-2b3wujikfd40	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-k6fl56306az	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-uwwp29z056x1	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-qsbyltzos13b	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-74wxmzabquco	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-18p3ouw2y75c6	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1435-ofrfwspipelinepr1435pipe-143a8lbdokg3t	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1akgkomk9jixv	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-82fxfv2j5k35	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mj21qrmtpwdr	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-9uew42s14ytn	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ljwpjh8quade	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-2b3wujikfd40	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mj21qrmtpwdr	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-9uew42s14ytn	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-18p3ouw2y75c6	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-k6fl56306az	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-74wxmzabquco	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1435-ofrfwspipelinepr1435pipe-143a8lbdokg3t	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-uwwp29z056x1	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-82fxfv2j5k35	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-qsbyltzos13b	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-int-monthly-useage-reporting-bucket	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ljwpjh8quade	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-1dgxowptj79a	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1811	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-gqheb91n1amu	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1430-ofrfwspipelinepr1430pipe-1e0c0e9ndlce2	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1430-ofrfwspipelinepr1430pipe-1e0c0e9ndlce2	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1811	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1akgkomk9jixv	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-gqheb91n1amu	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-1dgxowptj79a	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-4qtfo7zakqbk	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-4qtfo7zakqbk	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-qsbyltzos13b	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-jfswppjknfvq	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ryhcgki5vfgk	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ljwpjh8quade	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mo2rffwkkzxh	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1kwbenk3e90ql	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1t1n23ybs1el	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mj21qrmtpwdr	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1arv2f3svzsm4	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-k6fl56306az	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-1dgxowptj79a	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-7q9tjwnpfrb8	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-bizwbf3gp74e	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1sxvuf4f412ke	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-512rppz78f4x	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-82fxfv2j5k35	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-6k9c0u3dbk1c	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-1rhqi6xxrgksr	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-gqheb91n1amu	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-of-5912-ofrfwapipelineof5912pipe-1n9w70v4mfqzr	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-8vvo67ufus8h	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ljwpjh8quade	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-2b3wujikfd40	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1435-ofrfwspipelinepr1435pipe-143a8lbdokg3t	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16pn1p7zxloju	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-180v9d3qmvpzd	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1kwbenk3e90ql	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1430-ofrfwspipelinepr1430pipe-1e0c0e9ndlce2	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1arv2f3svzsm4	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::stackset-customcontroltower-datado-forwarderbucket-9ezeiw5g6btf	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-qsbyltzos13b	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-1dgxowptj79a	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-1nr77ku4k1pbw	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1970	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-gqheb91n1amu	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1811	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-of-5912-ofrfwapipelineof5912pipe-1n9w70v4mfqzr	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1civ74mlnft3u	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1kwbenk3e90ql	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-8vvo67ufus8h	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-13s7p7p885k1q	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1akgkomk9jixv	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ljwpjh8quade	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1430-ofrfwspipelinepr1430pipe-1e0c0e9ndlce2	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-74wxmzabquco	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1e47klumhe9wx	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-28xfqkr7jtel	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-180v9d3qmvpzd	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::cdk-hnb659fds-assets-651948078005-eu-west-2	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-ecprwfkulrij	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1arv2f3svzsm4	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-gqheb91n1amu	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-4qtfo7zakqbk	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::aws-keys-rotate-into-github-secrets-instance-pem-key	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-1rhqi6xxrgksr	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-of-5912-ofrfwapipelineof5912pipe-1n9w70v4mfqzr	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1iyxyhd1hhqd0	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-int-monthly-useage-reporting-bucket	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1nwak9c0mu78j	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-i8tk78rorhdv	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::stackset-customcontroltower-datado-forwarderbucket-9ezeiw5g6btf	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-2b3wujikfd40	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1rxflj8zik7ef	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-thxr8sosqjfc	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1970	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-1nr77ku4k1pbw	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::cdk-hnb659fds-assets-651948078005-eu-west-2	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::aws-keys-rotate-into-github-secrets-instance-pem-key	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-14ytxzd06kpkp	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1qxctmo81jugt	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1eqdjkcjs7y3r	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16pn1p7zxloju	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-13s7p7p885k1q	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-512rppz78f4x	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-28xfqkr7jtel	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-180v9d3qmvpzd	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-i8tk78rorhdv	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-bizwbf3gp74e	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1t1n23ybs1el	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1eqdjkcjs7y3r	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-jfswppjknfvq	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1sxvuf4f412ke	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1rxflj8zik7ef	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1t1n23ybs1el	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-i8tk78rorhdv	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1eqdjkcjs7y3r	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-28xfqkr7jtel	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-512rppz78f4x	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-bizwbf3gp74e	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-jfswppjknfvq	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1rxflj8zik7ef	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1sxvuf4f412ke	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-180v9d3qmvpzd	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1alo1w4qxuqve	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1970	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1arv2f3svzsm4	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-14ytxzd06kpkp	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1970	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1arv2f3svzsm4	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1alo1w4qxuqve	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-14ytxzd06kpkp	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-of-5912-ofrfwapipelineof5912pipe-1n9w70v4mfqzr	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-ecprwfkulrij	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::aws-keys-rotate-into-github-secrets-instance-pem-key	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-1nr77ku4k1pbw	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-1nr77ku4k1pbw	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-ecprwfkulrij	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-of-5912-ofrfwapipelineof5912pipe-1n9w70v4mfqzr	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::aws-keys-rotate-into-github-secrets-instance-pem-key	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-int-monthly-useage-reporting-bucket	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-9uew42s14ytn	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1rxflj8zik7ef	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1e47klumhe9wx	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-82fxfv2j5k35	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ryhcgki5vfgk	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-uwwp29z056x1	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1iyxyhd1hhqd0	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-k6fl56306az	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1sxvuf4f412ke	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-28xfqkr7jtel	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1eqdjkcjs7y3r	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-wjngfhpsxu5b	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-7q9tjwnpfrb8	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-admin-pipeline-integ-ofradminpipelineintegrat-1rhqi6xxrgksr	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::cdk-hnb659fds-assets-651948078005-eu-west-2	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-18p3ouw2y75c6	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-4qtfo7zakqbk	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-512rppz78f4x	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-wjngfhpsxu5b	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-qsbyltzos13b	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-uwwp29z056x1	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1rxflj8zik7ef	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1nwak9c0mu78j	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-6k9c0u3dbk1c	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1970	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1eqdjkcjs7y3r	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1sxvuf4f412ke	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-integration	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-1dgxowptj79a	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16pn1p7zxloju	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1811	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-2b3wujikfd40	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1qxctmo81jugt	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-guwwvr1uvhne	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1civ74mlnft3u	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ryhcgki5vfgk	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1qxctmo81jugt	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-thxr8sosqjfc	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mo2rffwkkzxh	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-wjngfhpsxu5b	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-7q9tjwnpfrb8	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-8vvo67ufus8h	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-6k9c0u3dbk1c	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ryhcgki5vfgk	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1qxctmo81jugt	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-thxr8sosqjfc	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-wjngfhpsxu5b	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-7q9tjwnpfrb8	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1civ74mlnft3u	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-6k9c0u3dbk1c	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mo2rffwkkzxh	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-guwwvr1uvhne	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1kwbenk3e90ql	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1nwak9c0mu78j	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-13s7p7p885k1q	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1iyxyhd1hhqd0	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-integration	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16pn1p7zxloju	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1e47klumhe9wx	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1iyxyhd1hhqd0	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1kwbenk3e90ql	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-guwwvr1uvhne	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-8vvo67ufus8h	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-13s7p7p885k1q	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16pn1p7zxloju	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1e47klumhe9wx	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1nwak9c0mu78j	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-integration	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	2.1.2 Ensure S3 Bucket Policy is set to deny HTTP requests	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-integration	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	S3.5 S3 general purpose buckets should require requests to use SSL	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1civ74mlnft3u	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1435-ofrfwspipelinepr1435pipe-143a8lbdokg3t	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-18p3ouw2y75c6	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-uwwp29z056x1	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1alo1w4qxuqve	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-28xfqkr7jtel	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-8vvo67ufus8h	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-wjngfhpsxu5b	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-guwwvr1uvhne	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1430-ofrfwspipelinepr1430pipe-1e0c0e9ndlce2	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-9uew42s14ytn	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1akgkomk9jixv	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-180v9d3qmvpzd	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1e47klumhe9wx	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-74wxmzabquco	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1811	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-integration	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-ecprwfkulrij	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-4qtfo7zakqbk	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	S3.13 S3 general purpose buckets should have Lifecycle configurations	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mo2rffwkkzxh	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mj21qrmtpwdr	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-i8tk78rorhdv	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-thxr8sosqjfc	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1qxctmo81jugt	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-14ytxzd06kpkp	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-bizwbf3gp74e	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1t1n23ybs1el	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1alo1w4qxuqve	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1civ74mlnft3u	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-jfswppjknfvq	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1akgkomk9jixv	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-74wxmzabquco	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-512rppz78f4x	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1nwak9c0mu78j	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-6k9c0u3dbk1c	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-13s7p7p885k1q	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-integra-ofrfwspipelineintegratio-guwwvr1uvhne	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-ecprwfkulrij	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-integration	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::aws-keys-rotate-into-github-secrets-instance-pem-key	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	S3.9 S3 general purpose buckets should have server access logging enabled	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	CT.S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	2.1.5.2 S3 Block Public Access setting should be enabled at the bucket-level	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29	NEW	S3.8 S3 general purpose buckets should block public access	NEW
+ACTIVE	arn:aws:s3:::stackset-customcontroltower-datado-forwarderbucket-9ezeiw5g6btf	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-i8tk78rorhdv	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-thxr8sosqjfc	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1t1n23ybs1el	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-7q9tjwnpfrb8	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-jfswppjknfvq	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-82fxfv2j5k35	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-bizwbf3gp74e	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-9uew42s14ytn	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-k6fl56306az	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1iyxyhd1hhqd0	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mj21qrmtpwdr	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ryhcgki5vfgk	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-14ytxzd06kpkp	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::amplify-amplifyea85c291bb134-staging-115046-deployment	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-1nr77ku4k1pbw	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1alo1w4qxuqve	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-18p3ouw2y75c6	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-pipeline-pr-1435-ofrfwspipelinepr1435pipe-143a8lbdokg3t	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-integration-logs	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::cf-templates-vl0bydwktp8u-eu-west-2	NEW	2.1.3 Ensure MFA Delete is enabled on S3 buckets	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1970	NEW	AwsS3Bucket/arn:aws:s3:::ofr-fws-application-pr-1970/ allows cross-account access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-pr-1811	NEW	AwsS3Bucket/arn:aws:s3:::ofr-fws-application-pr-1811/ allows cross-account access	NEW
+ACTIVE	arn:aws:s3:::ofr-fws-application-integration	NEW	AwsS3Bucket/arn:aws:s3:::ofr-fws-application-integration/ allows cross-account access	NEW
