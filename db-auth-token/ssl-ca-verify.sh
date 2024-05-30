@@ -44,6 +44,8 @@ declare -a dbendpoints=(
     'ofrfwsapplicationintegratipplicationintegrationproxya9bc99b4.proxy-cijbd5cnppmo.eu-west-2.rds.amazonaws.com'
 )
 
+dbuser="proxy"
+
 declare -a sslmodes=(
     DISABLED
     PREFERRED
@@ -55,28 +57,26 @@ declare -a verifycas=(
     VERIFY_IDENTITY
 )
 
-configfile="/home/as2-streaming-user/MyFiles/config.cnf"
-cafilepath="/home/as2-streaming-user/MyFiles/"
-
 declare -a cafiles=(
     global-bundle.pem
     mysql2-ssl-profile.pem
 )
 
-dbuser="proxy"
-
-# Get secure password at interactive command line
-
+configfile="/home/as2-streaming-user/MyFiles/config.cnf"
+cafilepath="/home/as2-streaming-user/MyFiles/"
 
 for dbendpoint in "${dbendpoints[@]}"
 do
     touch $configfile
     echo "[client]" > $configfile
-    echo "user='$dbuser'" >> $configfile
     echo "host='$dbendpoint'" >> $configfile
 
-    # Read-in password from prompt, write it to file and if successful truncate variable
-    read -sp "Enter a password for $dbuser: " PASSW && printf "\n"
+    # Read-in db user name, write it to file
+    read -sp "Enter a username for $dbendpoint: " DBUSER && printf "\n"
+    echo "user='$DBUSER'" >> $configfile
+
+    # Read-in password from prompt, write it to file and on success truncate the variable
+    read -sp "Enter a password for $DBUSER: " PASSW && printf "\n"
     echo "password='$PASSW'" >> $configfile && export PASSW=''
 
     echo ""
