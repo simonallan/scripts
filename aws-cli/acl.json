@@ -1,0 +1,1456 @@
+05-18-23-03:43:23 PM
+3orr009-npcug6h
+{
+    "Owner": {
+        "DisplayName": "ofr-int-kjt4hbpt",
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "DisplayName": "ofr-int-kjt4hbpt",
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+3ye4ldu-srrhd4f6
+{
+    "Owner": {
+        "DisplayName": "ofr-int-kjt4hbpt",
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "DisplayName": "ofr-int-kjt4hbpt",
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+amplify-amplifyea85c291bb134-staging-115046-deployment
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+appstream-app-settings-eu-west-2-651948078005-repng3m4
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+appstream2-36fb080bb8-eu-west-2-651948078005
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+aws-keys-rotate-into-github-secrets-instance-pem-key
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+cdk-hnb659fds-assets-651948078005-eu-west-2
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+cdk-hnb659fds-assets-651948078005-us-east-1
+{
+    "Owner": {
+        "DisplayName": "ofr-int-kjt4hbpt",
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "DisplayName": "ofr-int-kjt4hbpt",
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+cf-templates-vl0bydwktp8u-eu-west-2
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+datadog-forwarder-forwarderbucket-1fuuzf2w8ssce
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-admin-pipeline-integ-ofradminpipelineintegrat-1rhqi6xxrgksr
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-admin-pipeline-integ-ofradminpipelineintegrat-gqheb91n1amu
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-application-inte-ofrfwaapplicationintegra-vsdex7hrp5ba
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-application-integration
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        },
+        {
+            "Grantee": {
+                "ID": "c4c1ede66af53448b93c283ce9448c4ba468c9432aa01d700d3878632f77d2d0",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-application-of-5-ofrfwaapplicationof5912f-14cp275l2yl29
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-application-of-5-ofrfwaapplicationof5912f-1hrz51bz8tx6c
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-1nr77ku4k1pbw
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-4qtfo7zakqbk
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-pipeline-integra-ofrfwapipelineintegratio-ecprwfkulrij
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fwa-pipeline-of-5912-ofrfwapipelineof5912pipe-1n9w70v4mfqzr
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-inte-ofrfwsapplicationintegra-r48iu7e5ch2c
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-inte-ofrfwsapplicationintegra-zbyajldjzweo
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-integration
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-105sf3f7fm93a
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-14vxphrf3addt
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1820we6ej44kt
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1azau95assn7z
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1dn01jx20p89f
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1lxk1ee5f643x
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1nu8f54gdv1dz
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1p1f2l7i0btf8
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1pvs2h4v9l3au
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1qdoregi662ap
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1ser2ovc53hz8
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1t6qo5ush4eay
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-1xnzej7nwwv9g
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-2qkfau53elym
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-6vdbtawtxh29
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-8ikja63tafqf
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-9qwbo5ousioc
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-9xd6gju2db31
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-bh6or4gg9ekh
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-cletgr21o7o4
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-d6rsup8kei09
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-ec2gl0of9dvx
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-fc33iultaw6x
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-fcrk04audavi
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-g0ytlbfavqu7
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-gy7af0tb7fff
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-nsd1txjwi525
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-ozipxay74kty
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-pni677s2ebd7
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-v1xoew3h0kg5
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-ofrfwsapplicationpullreq-x85421czvxdm
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-application-pull-request-of-6201
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-integration-logs
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-integra-ofrfwspipelineintegratio-1dgxowptj79a
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-integra-ofrfwspipelineintegratio-guwwvr1uvhne
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-13s7p7p885k1q
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-14ytxzd06kpkp
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16pn1p7zxloju
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-16sh74a09h6hz
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-180v9d3qmvpzd
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-18p3ouw2y75c6
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1akgkomk9jixv
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1alo1w4qxuqve
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1arv2f3svzsm4
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1civ74mlnft3u
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1e47klumhe9wx
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1iyxyhd1hhqd0
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1kwbenk3e90ql
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1nwak9c0mu78j
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1qxctmo81jugt
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1rxflj8zik7ef
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1sxvuf4f412ke
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-1t1n23ybs1el
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-28xfqkr7jtel
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-2b3wujikfd40
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-6k9c0u3dbk1c
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-74wxmzabquco
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-7q9tjwnpfrb8
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-8vvo67ufus8h
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-99yg6zmogml2
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-9uew42s14ytn
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-bizwbf3gp74e
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-i8tk78rorhdv
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-jfswppjknfvq
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-k6fl56306az
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-kdazw5ex2rjy
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ljwpjh8quade
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-mo2rffwkkzxh
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-ryhcgki5vfgk
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-thxr8sosqjfc
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-uwwp29z056x1
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+ofr-fws-pipeline-pull-re-ofrfwspipelinepullreques-wjngfhpsxu5b
+{
+    "Owner": {
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
+stackset-datadogforwarderv1-85753-forwarderbucket-1lwp4rvgnvl3b
+{
+    "Owner": {
+        "DisplayName": "ofr-int-kjt4hbpt",
+        "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c"
+    },
+    "Grants": [
+        {
+            "Grantee": {
+                "DisplayName": "ofr-int-kjt4hbpt",
+                "ID": "645905b77b986cc42b3c4c373eeeceab79fc4984d9f9022be24f425a7e76122c",
+                "Type": "CanonicalUser"
+            },
+            "Permission": "FULL_CONTROL"
+        }
+    ]
+}
