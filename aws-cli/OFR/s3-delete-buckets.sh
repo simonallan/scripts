@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# AWS-CLI enabled script that deletes objects, object versions and buckets.
+# AWS-Cli script that deletes objects, object versions and buckets.
 
 # Usage:
 # - Create an input file of a list S3 bucket names (physicalId) that are to be deleted.
@@ -9,22 +9,20 @@
 #   I wanted to add some kind of failsafe just in case my query picked up some buckets
 #   that I might actually need (again this was in a sandbox environment, but
 #   you can never be too sure). So we prompt the user for a y input.
-
 # - If you are truly YOLO (or you prepared well - SA), you can use the yes program to
 #   automatically accept every result, for example
-#   `yes | ./s3-delete-buckets.sh`
+#   `yes | ./s3-delete-buckets.sh` (Ed)
 
 # input_file="./src/ofr-int-test-s3-deletions-list.txt"
 input_file="./src/ofr-int-s3-deletions-latest.txt"
 
-BUCKETS=`cat $input_file`
-declare -a buckets_array=$BUCKETS
+declare -a buckets_array=`cat $input_file`
 
 CHUNK_SIZE=1000 # This is the max number of objects that can be deleted in a single request
 
 for bucket in $buckets_array; do
     # Credit to Ed in the Clouds for the Empty and Delete S3 Buckets script
-    # https://www.edintheclouds.io/posts/e20c3d90-f389-4cc8-9767-d126339a9710 for the deletion script
+    # https://www.edintheclouds.io/posts/e20c3d90-f389-4cc8-9767-d126339a9710
     echo -n "Are you sure you want to delete bucket '$bucket'? only 'y' is accepted: "
         read -r confirm
         if [[ $confirm =~ ^[Yy]$ ]]; then
