@@ -1,14 +1,16 @@
 #!/bin/bash
 
-
-
-
 declare -a dbendpoints=(
-    # 'ofrfwsapplicationintegratipplicationintegrationproxya9bc99b4.proxy-cijbd5cnppmo.eu-west-2.rds.amazonaws.com' # OFR Prod Proxy
-    prod-oauth-mysql-01.cnqq1j8iriww.eu-west-1.rds.amazonaws.com # OAuth Prod
+    # OFR INT Proxy
+    # 'ofrfwsapplicationintegratipplicationintegrationproxya9bc99b4.proxy-cijbd5cnppmo.eu-west-2.rds.amazonaws.com'
+    # OFR Prod Proxy
+    'ofrfwsapplicationproductioapplicationproductionproxy0e9f0997.proxy-cwdv9vks4lal.eu-west-2.rds.amazonaws.com'
+    # OAuth Prod
+    # prod-oauth-mysql-01.cnqq1j8iriww.eu-west-1.rds.amazonaws.com
 )
 
-dbuser="proxy"
+
+# dbuser="proxy"
 
 declare -a statusCommands=(
     "STATUS;"
@@ -31,22 +33,25 @@ do
     echo "host='$dbendpoint'" >> $configfile
 
     # Read-in db user name, write it to file
-    read -sp "Enter a username for $dbendpoint: " DBUSER && printf "\n"
-    echo "user='$DBUSER'" >> $configfile
+    if ! test -f $configfile; then
+      read -sp "Enter a username for $dbendpoint: " DBUSER && printf "\n"
+      echo "user='$DBUSER'" >> $configfile
 
     # Read-in password from prompt, write it to file and on success truncate the variable
-    read -sp "Enter a password for $DBUSER: " PASSW && printf "\n"
-    echo "password='$PASSW'" >> $configfile && export PASSW=''
+      read -sp "Enter a password for $DBUSER: " PASSW && printf "\n"
+      echo "password='$PASSW'" >> $configfile && export PASSW=''
+    fi
 
     echo ""
-    echo "Connecting to $dbendpoint with user $dbuser"
+    echo "Connecting to $dbendpoint with user $DBUSER"
 
     for command in "${statusCommands[@]}"
     do
         echo "Executing command: $command"
         mysql                                       \
         --defaults-extra-file=$configfile           \
-        --execute="$command"
+        --execute="$command"                        \
+        --ssl=true
         echo ""
     done
 done

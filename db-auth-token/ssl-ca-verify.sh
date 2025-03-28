@@ -111,4 +111,4 @@ do
     done
 done
 
-rm -f $configfile
+# rm -f $configfile
