@@ -20,10 +20,14 @@ declare -a buckets_array=`cat $input_file`
 
 CHUNK_SIZE=1000 # This is the max number of objects that can be deleted in a single request
 
-for bucket in $buckets_array; do
+for b in $buckets_array; do
     # Credit to Ed in the Clouds for the Empty and Delete S3 Buckets script
     # https://www.edintheclouds.io/posts/e20c3d90-f389-4cc8-9767-d126339a9710
-    echo -n "Are you sure you want to delete bucket '$bucket'? only 'y' is accepted: "
+
+    # Strip the preceeding 'arn:aws:s3:::' from bucket ARN to get the physicalID
+    bucket="$(echo $b | awk -F ':' '{print $6}')"
+
+    echo -n "Are you sure you want to delete bucket '$bucket'? Only 'Y/y' is accepted: "
         read -r confirm
         if [[ $confirm =~ ^[Yy]$ ]]; then
             objects=$(aws s3api list-object-versions --bucket $bucket --query='{Objects: Versions[].{Key:Key,VersionId:VersionId}}')

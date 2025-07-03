@@ -2,18 +2,18 @@
 # Quick and dirty script to iterate through AWS S3 buckets
 # and filch out some details
 
-logfile=/tmp/bucket-details.txt
+logFile=/output/bucket-details.txt
 
-starttime=$(date +"%m-%d-%Y %T")
+startTime=$(date +"%m%d%Y-%T")
 
 # log all output
-exec 1>$logfile 2>&1
+exec 1>$logFile 2>&1
 
-# Account to check
-profile="awsprod"
+# Account and role to check
+profile="ofr-prod-readonly"
 
-# List names of all buckets 
-buckets=$(aws s3api list-buckets --profile awsprod --query "Buckets[].Name" --output text)
+# List names of all buckets
+buckets=$(aws s3api list-buckets --profile $profile --query "Buckets[].Name" --output text)
 
 # Iterate over the list of S3 buckets, doing a thing to each one
 for b in $buckets; do
@@ -22,7 +22,8 @@ for b in $buckets; do
   echo ""
 done
 
-now=$(date +"%m-%d-%Y %T")
-echo "* * * Script started:  $starttime"
-echo "* * * Script complete: $now"
+endTime=$(date +"%m%d%Y-%T")
+
+echo "* * * Script started:  $startTime"
+echo "* * * Script complete: $endTime"
 
