@@ -1,0 +1,4 @@
+arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-tgzw2n6u3s6c - Stack does not exist
+arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-v30wmn2jsmi8 - Stack does not exist
+arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-15oe08vmucm4a - created with stack ofr-fws-pipeline-production	2023-07-27T09:13:43.869000+00:00
+arn:aws:s3:::ofr-fws-production-s3-access-logs - created with stack ofr-fws-foundation-production	2025-06-24T10:15:58.597000+00:00

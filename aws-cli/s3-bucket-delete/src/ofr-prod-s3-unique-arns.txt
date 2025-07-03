@@ -35,5 +35,3 @@ arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-qyqmh4xfzw7
 arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-tb1km1ea5n9b
 arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-tgzw2n6u3s6c
 arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-v30wmn2jsmi8
-arn:aws:s3:::ofr-fws-pipeline-product-ofrfwspipelineproduction-15oe08vmucm4a
-arn:aws:s3:::ofr-fws-production-s3-access-logs
