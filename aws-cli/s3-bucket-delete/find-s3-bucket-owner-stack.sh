@@ -17,9 +17,9 @@ output_file="./output/ofr-prod-bucket-stack-results-$datestamp.txt"
 
 truncate -s 0 $output_file
 
-declare -a noStackBuckets=()
-declare -a hasStackBuckets=()
-declare -a bucketsWithStacks=()
+declare -a noStackResources=()
+declare -a hasStackResources=()
+declare -a resourcesWithStacks=()
 
 noStackCounter=0
 hasStackCounter=0
@@ -34,38 +34,36 @@ i=0
 while read bucket;
 do
   # It's a spinner!
+  # Thanks to William Purcell at https://stackoverflow.com/questions/12498304/using-bash-to-display-a-progress-indicator-spinner
   i=$(( (i+1) %4 ))
   printf "\r${spin:$i:1}"
 
-  # Strip the preceeding 'arn:aws:s3:::' from bucket ARN
+  # Strip the preceeding 'arn:aws:s3:::' from resource ARN
   physicalId="$(echo $bucket | awk -F ':' '{print $6}')"
 
   # Perform a stack resource lookup based on the resource ID
-  stackName="$(aws cloudformation describe-stack-resources \
+  output="$(aws cloudformation describe-stack-resources \
   --physical-resource-id "$physicalId" \
   --no-cli-pager \
   --output text \
-  --query 'StackResources[0].{stackname: StackName, timeStamp: Timestamp}' 2> /dev/null )"
+  --query 'StackResources[0].{stackname: StackName, timeStamp: Timestamp}' 2>&1 )"
 
-  # command receives validation error 254 "Validation Error" if a corresponding stack is not found.
-  if [ $? == 254 ]; then
-    output="$bucket - Stack does not exist"
-    printf "$output\n" >> $output_file
+  if [[ $output == *"ValidationError"* ]]; then
+    printf "$(echo $output | awk -F ':' '{print $2}')\n" >> $output_file
     ((++noStackCounter))
   else
-    output="$bucket - created with stack $stackName"
     printf "$output\n" >> $output_file
     ((++hasStackCounter))
-    bucketsWithStacks[$end]+="$output\n"
+    resourcesWithStacks[$end]+="$output\n"
   fi
 done < $input_file
 
-totalBuckets=$(($noStackCounter + $hasStackCounter))
-printf "\nTotal Buckets Checked: $totalBuckets\n\n"
-printf "Buckets with belonging to existing stack: $hasStackCounter\n"
-printf "Buckets with orphaned from creator stack: $noStackCounter\n\n"
+totalResources=$(($noStackCounter + $hasStackCounter))
+printf "\nTotal Resources Checked: $totalResources\n\n"
+printf "Resources belonging to existing stack: $hasStackCounter\n"
+printf "Resources orphaned from creator stack: $noStackCounter\n\n"
 
 if [ $hasStackCounter -gt 0 ]; then
-  printf "The following should probably be checked and NOT deleted:\n"
-  printf "$bucketsWithStacks"
+  printf "The following should be checked and NOT deleted:\n"
+  printf "$resourcesWithStacks"
 fi
